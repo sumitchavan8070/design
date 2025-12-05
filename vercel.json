@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "buildCommand": "vite build",
+  "outputDirectory": "build",
+  "framework": "vite",
+  "env": {
+    "NEXT_PUBLIC_API_URL": "https://fluttertales.tech/mobileapi/v1",
+    "NEXT_PUBLIC_APP_NAME": "School Management System",
+    "NEXT_PUBLIC_APP_VERSION": "1.0.0",
+    "PAYU_MERCHANT_KEY": "aJWzRK",
+    "PAYU_MERCHANT_SALT": "4wgOUmGrsrDLG96UTExMwejbXzSIVVj1",
+    "PAYU_BASE_URL": "https://test.payu.in",
+    "NEXT_PUBLIC_PAYU_BASE_URL": "https://test.payu.in",
+    "DB_DATABASE": "sms"
+  }
+}
